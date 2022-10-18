@@ -1,3 +1,4 @@
+# Week Two project
 # A Javascript project
 # Done by: Joy Mwasi, a DevOps student at Moringa School
 # 
